@@ -24,11 +24,11 @@
             ],
             "styles": [
               "src/styles.css",
-              "/home/user/edwisor/angular/blogapp/node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "/home/vivek/blog-frontend/Blogapp-angular/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "/home/user/edwisor/angular/blogapp/node_modules/jquery/dist/jquery.min.js",
-              "/home/user/edwisor/angular/blogapp/node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "/home/vivek/blog-frontend/Blogapp-angular/node_modules/jquery/dist/jquery.min.js",
+              "/home/vivek/blog-frontend/Blogapp-angular/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
